@@ -1,8 +1,4 @@
-Here is a sample `README.md` for your project:
-
----
-
-# SID.AI PDF to Interactive Mindmap Converter
+# AI for PDF to Interactive Mindmap Converter
 
 This is a Streamlit-based application that allows users to upload a PDF file, extract its text content, and generate a hierarchical mindmap in Markdown format. The app uses Google Gemini AI (Generative AI) to analyze the content and create an organized mindmap that visually represents the main topics, subtopics, and details from the document.
 
